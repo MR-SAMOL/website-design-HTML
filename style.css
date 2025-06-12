@@ -4,7 +4,7 @@
 }
 .main{
     width:100%;
-    background:linear-gradient(to top,rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%),url(1.jpg);
+    background:linear-gradient(to top,rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%),url(8.jpg);
     background-position: center;
     background-size: cover;
     height:109vh;
@@ -44,6 +44,7 @@ ul{
     display:flex;
     justify-content: center;
     align-items: center;
+    
 
 }
 ul li{
@@ -164,7 +165,7 @@ ul li a:hover{
     font-family: sans-serif;
     text-align:center;
     color:orange;
-    font-size:22px;
+    font-size:25px;
     background-color:white;
     border-radius: 10px;
     margin:2px;
